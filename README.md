@@ -9,7 +9,7 @@ M.Sc. in Computer Science (Bydgoszcz University of Science and Technology) – T
 
 B.Eng. in Computer Science (Polish Naval Academy in Gdynia).
 
-📫 How to reach me: You can reach me through GitHub or via LinkedIn [Twoje Imię i Nazwisko].
+📫 How to reach me: You can reach me through GitHub or via LinkedIn Adam Szreiber.
 
 🛡️ Master's Thesis Highlight: ShieldMail
 Developed the central component of the ShieldMail ecosystem – a secure email processing system.
