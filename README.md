@@ -1,21 +1,19 @@
-👋 Hi, I’m @AdamSzr
-👀 I’m interested in: Building scalable web architectures and enhancing digital security. My core expertise focuses on Next.js and Bun/Node.js for high-performance applications, complemented by Python for specialized logic and Kotlin with WebFlux for reactive, non-blocking backend services.
+### Hi, I'm Adam 👋
 
-🌱 I’m currently learning: Advanced implementation of the FIDO2 specification in distributed systems and optimizing backend services using Bun and Hono. While I have a background in Python (Django) for security-focused applications, I am constantly refining my skills in Kotlin for modern backend development.
+Frontend developer / Full-stack with 4+ years of startup experience.  
+I build applications from frontend to infrastructure — with a focus on security, clean code, and practical solutions.
 
-🎓 Education:
+**Currently:**
+- 🔭 Working on: frontends for the crypto-fintech ecosystem at Kanga
+- 🌱 Learning: practical use of AI (Claude Code) in the software development and maintenance process, and applying AI in projects such as fraud detection
 
-M.Sc. in Computer Science (Bydgoszcz University of Science and Technology) – Thesis: Analysis and implementation of multi-layer authentication using FIDO2 specification.
+### Stack
+`TypeScript` `React` `Next.js` `Node.js` `Python/Django` `Java` `Kotlin` `C#/.NET` `PostgreSQL` `Docker` `Kubernetes` `GCP` `FIDO2/WebAuthn`
 
-B.Eng. in Computer Science (Polish Naval Academy in Gdynia).
+### Selected projects
+- **[Kerplank](https://github.com/AdamSzr/Kerplank-frontend)** — Jira-like project management app (drag & drop task board, real-time chat, file module)
+- **[AMW-zespolowe_przedsiewziecia](https://github.com/AdamSzr/AMW-zespolowe_przedsiewziecia)** — team project from the Naval Academy (Express + Gatsby)
+- **ShieldMail** (master's thesis) — email service with MFA/FIDO2, phishing resistance analysis in Wireshark
+- **Beheer** (engineering thesis) — application for secure code change deployment (Blitz.js, C#, Prisma)
 
-📫 How to reach me: You can reach me through GitHub or via LinkedIn Adam Szreiber.
-
-🛡️ Master's Thesis Highlight: ShieldMail
-Developed the central component of the ShieldMail ecosystem – a secure email processing system.
-
-Tech Stack: Python, Django, Postfix, Dovecot.
-
-Security: Implemented FIDO2 as a second factor to eliminate phishing risks.
-
-Analysis: Conducted a deep-dive analysis of information flow across the OSI model layers to ensure end-to-end communication security.
+[GitHub](https://github.com/AdamSzr) · [LinkedIn](link) · [adamszreiber@example.com](mailto:adamszreiber@example.com)
