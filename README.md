@@ -7,7 +7,7 @@ I build applications from frontend to infrastructure — with a focus on securit
 
 🔭 Working on: frontends for the crypto-fintech ecosystem at Kanga
 
-🌱 Learning: practical use of AI (Claude Code) in the software development and maintenance process, and applying AI in projects such as fraud detection
+🌱 Learning: practical use of AI (Claude Code) in the software development and maintenance process, implementing MCP Servers
 
 #### Stack 
 TypeScript React Next.js Node.js Python/Django Java Kotlin C#/.NET PostgreSQL Docker Kubernetes GCP FIDO2/WebAuthn
